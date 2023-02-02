@@ -26,13 +26,13 @@
         },
         {
             "id":2,
-            "nombre":"Arroz con Mariscos",
+            "nombre":"Jalea Mixta",
             "url":"https://www.comedera.com/wp-content/uploads/2022/06/jalea-mixta.jpg",
             "categoria":2
         },
         {
             "id":2,
-            "nombre":"Jalea de Pescado",
+            "nombre":"Arroz con Mariscos",
             "url":"https://elcomercio.pe/resizer/2NsfDVlLCtb6UlSre99ZthqWhP8=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NEE6QF2DE5D7VIM3CTX3SBU6FI.jpg",
             "categoria":2
         },
