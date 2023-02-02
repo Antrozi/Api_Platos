@@ -1,0 +1,94 @@
+{
+    "comidas":[
+        {
+            "id":1,
+            "nombre":"Conchitas a la Parmesana",
+            "url":" https://1.bp.blogspot.com/-1gpQXGuUxZY/X-NR-IfTK5I/AAAAAAAAPKk/GPFcQrTeYRQSUctlJjcvOajaoLuElqMSgCLcBGAsYHQ/s1200/Conchitas%2Ba%2Bla%2Bparmesana.jpg",
+            "categoria":1
+        },
+        {
+            "id":1,
+            "nombre":"Causa de Pollo",
+            "url":"https://elcomercio.pe/resizer/1xz3w_26FwRA5JuSn02p9afc97g=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/7QDRJTB2DZHB7IQL3HF4IK6OX4.jpg",
+            "categoria":1
+        },
+        {
+            "id":1,
+            "nombre":"Leche de Tigre",
+            "url":"https://elcomercio.pe/resizer/6TR0Lcwmg4Z_vm0JlNbscb4JNMA=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VN5X2O53B5E4VINDN7TGWQLUQ4.jpg",
+            "categoria":1
+        },
+        {
+            "id":2,
+            "nombre":"Ceviche de Pesacdo",
+            "url":"https://trome.pe/resizer/-R8GQPfZoAOK4V9uCalvv6FeYEs=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMEMVCZ2KJAATPYX2JT7FDPT5Q.jpg",
+            "categoria":2
+        },
+        {
+            "id":2,
+            "nombre":"Arroz con Mariscos",
+            "url":"https://www.comedera.com/wp-content/uploads/2022/06/jalea-mixta.jpg",
+            "categoria":2
+        },
+        {
+            "id":2,
+            "nombre":"Jalea de Pescado",
+            "url":"https://elcomercio.pe/resizer/2NsfDVlLCtb6UlSre99ZthqWhP8=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NEE6QF2DE5D7VIM3CTX3SBU6FI.jpg",
+            "categoria":2
+        },
+        {
+            "id":3,
+            "nombre":"Chicha Morada",
+            "url":"https://elcomercio.pe/resizer/hFBXMzUVwnOLwhZrKRyKUOYx_dU=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZW3LRBMABAA5IZPHJ36MJZX5I.jpg",
+            "categoria":3
+        },
+        {
+            "id":3,
+            "nombre":"Limonada ",
+            "url":"https://cloudfront-us-east-1.images.arcpublishing.com/infobae/CLWWVAIRGJF4FG4ATXCV7YZZLQ.jpg",
+            "categoria":3
+        },
+        {
+            "id":3,
+            "nombre":"Maracucya",
+            "url":"https://peru21.pe/resizer/-DolEImJY18leOPdibu4kyKIjb8=/1200x800/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/G5XOTKDEENAX7JYZMWI4YYGD24.jpg",
+            "categoria":3
+        },
+        {
+            "id":4,
+            "nombre":"Torta de Chocolate",
+            "url":"https://peru21.pe/resizer/YmGwSw9bXc2Hgoua1WgdNhw2hN0=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/EJLK47B5TRBDFPD4FMZXUWCWZQ.png",
+            "categoria":4
+        },
+        {
+            "id":4,
+            "nombre":"Flan",
+            "url":"https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/0c7289c004b75116015878c651519e10.jpg",
+            "categoria":4
+        },
+        {
+            "id":4,
+            "nombre":"Mousse de Mango",
+            "url":"https://sivarious.com/wp-content/uploads/2022/05/mousse-de-mango.jpg",
+            "categoria":4
+        },
+        {
+            "id":5,
+            "nombre":"Helado de Fresa",
+            "url":"https://www.comedera.com/wp-content/uploads/2022/04/Helado-de-fresas-casero-shutterstock_1477385882.jpg",
+            "categoria":5
+        },
+        {
+            "id":5,
+            "nombre":"Helado de Menta",
+            "url":"https://t1.uc.ltmcdn.com/es/posts/4/6/9/como_hacer_helado_de_menta_28964_orig.jpg",
+            "categoria":5
+        },
+        {
+            "id":5,
+            "nombre":"Helado de Chochochip",
+            "url":"data:image/jpeg;base64,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",
+            "categoria":5
+        }
+    ]
+}
